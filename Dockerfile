@@ -1,5 +1,6 @@
 FROM python:3
 
+MAINTAINER Darshan Kathiriya <darshan.kathiriya@dal.ca>
 # set a directory for the app
 WORKDIR /usr/src/app
 

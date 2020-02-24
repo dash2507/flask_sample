@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "balajidz/sample",
+    "Name": "dash2507/flask_sample",
     "Update": "true"
   },
   "Ports": [
